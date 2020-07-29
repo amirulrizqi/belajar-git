@@ -1,0 +1,15 @@
+package com.company;
+
+public class Main {
+
+    public static void main(String[] args) {
+       /*
+        Nama : Amirul Rizqi Nugroho
+        Kelas : XI RPL 6
+        Absen : 05
+        */
+        fun main(args: Array<String>) {
+            println("Hello Kotlin!")
+        }
+    }
+}
